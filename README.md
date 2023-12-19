@@ -1,7 +1,7 @@
 # MARKET_BASKET_ANALYSIS USING APRIORI
 
 # Overview
-Market Basket Analysis or MBA targets buying patterns of items. Going through sales transactions over time for a business, MBA answers the question of 'what are the likely items customers would purchase together in a set when they come in the store?'
+Market Basket Analysis or MBA targets buying patterns of items. Going through sales transactions over time for a business, MBA answers the question of 'what are the likely items customers would purchase together in a set when they come into the store?'
 
 ![image](https://github.com/Christiana286/Market_Basket_Analysis/assets/139984557/b42474d5-2500-44aa-8a88-effe83121c3c)
 
